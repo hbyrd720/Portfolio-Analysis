@@ -1,5 +1,4 @@
-# Homework #4
-## A Whale off the Port(folio)
+# Portfolio Analysis
 
 Heather Byrd, 11/14/2020
 
